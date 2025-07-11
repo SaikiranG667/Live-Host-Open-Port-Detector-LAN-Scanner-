@@ -1,7 +1,6 @@
 # 🔍 Nmap LAN Scanner
 
-A simple Bash-based Nmap tool to discover live hosts and open ports on your local network. Great for beginners learning cybersecurity and network scanning.
-
+A simple Bash-based Nmap tool to discover live hosts and open ports on your local network. 
 ---
 
 ## 🚀 Features
